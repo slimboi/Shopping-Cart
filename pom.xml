@@ -5,7 +5,7 @@
 
     <groupId>com.reljicd</groupId>
     <artifactId>shopping-cart</artifactId>
-    <version>0.0.2-SNAPSHOT</version>
+    <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <name>shopping-cart</name>
@@ -111,11 +111,11 @@
          <distributionManagement>
         <repository>
             <id>maven-releases</id>
-            <url>http://52.56.237.43:8081/repository/maven-releases/</url>
+            <url>http://3.8.144.132:8081/repository/maven-releases/</url>
         </repository>
         <snapshotRepository>
             <id>maven-snapshots</id>
-            <url>http://52.56.237.43:8081/repository/maven-snapshots/</url>
+            <url>http://3.8.144.132:8081/repository/maven-snapshots/</url>
         </snapshotRepository>
     </distributionManagement>
 
